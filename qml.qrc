@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FaceEditor.qml</file>
+        <file>images/background.png</file>
+        <file>FaceThumbnail.qml</file>
+        <file>InputSection.qml</file>
+        <file>OutputSection.qml</file>
+        <file>FaceView.qml</file>
+        <file>CropAnchor.qml</file>
+        <file>CropRubberBand.qml</file>
+        <file>FacesSection.qml</file>
+        <file>FaceGrid.qml</file>
+        <file>TemplateLayoutModel.qml</file>
+        <file>images/template.png</file>
+    </qresource>
+</RCC>
