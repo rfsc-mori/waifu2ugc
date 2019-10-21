@@ -240,10 +240,10 @@ Item {
               "want to share any source code with third parties or otherwise cannot " +
               "comply with the terms of the GNU LGPL version 3 or GNU LGPL version 2.1." + "\r\n" +
               "Qt licensed under the GNU LGPL version 3 is appropriate for the " +
-              "development of Qt&nbsp;applications provided you can comply with the terms " +
+              "development of Qt applications provided you can comply with the terms " +
               "and conditions of the GNU LGPL version 3." + "\r\n" +
               "Qt licensed under the GNU LGPL version 2.1 is appropriate for the " +
-              "development of Qt&nbsp;applications provided you can comply with the terms " +
+              "development of Qt applications provided you can comply with the terms " +
               "and conditions of the GNU LGPL version 2.1." + "\r\n" +
               "Please see http://qt.io/licensing " +
               "for an overview of Qt licensing." + "\r\n" +
